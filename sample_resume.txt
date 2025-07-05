@@ -1,0 +1,11 @@
+Zain Ali Khan
+AI Research Intern at XYZ Lab
+Email: zain.ali@email.com
+Phone: +92 347 6097262
+
+Skills:
+Python, Machine Learning, TensorFlow, NLP, Streamlit
+
+Experience:
+Worked on AI model for handwritten digit recognition
+Developed a rural opportunity finder app using NLP and Streamlit
